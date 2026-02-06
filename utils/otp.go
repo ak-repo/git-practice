@@ -1,11 +1,6 @@
 package utils
 
+func GenerateOTP(count int) int {
 
-
-
-func GenerateOTP(count int)int{
-
-return count * 99999}
-
-
-
+	return count * 99999
+}
